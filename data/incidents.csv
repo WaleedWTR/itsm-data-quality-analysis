@@ -1,0 +1,13 @@
+incident_id,original_category,validated_category,priority,expected_priority,resolver,status,short_description
+INC-001,Network,Network,P2,P2,Network,Resolved,Office connectivity unavailable
+INC-002,Hardware,Endpoint,P3,P3,EUC,Resolved,Laptop docking issue
+INC-003,Application,Application,P3,P3,Apps,Closed,Application error on login
+INC-004,Other,Identity,P3,P2,Service Desk,Resolved,Multiple users cannot authenticate
+INC-005,Network,Network,P4,P3,Network,Resolved,Single user WiFi instability
+INC-006,Access,Identity,P3,P3,Identity,Closed,Account access request raised as incident
+INC-007,Other,Printing,P3,P3,Service Desk,Resolved,Secure print queue unavailable
+INC-008,Hardware,Endpoint,P3,P3,EUC,Resolved,Device battery fault
+INC-009,Application,Network,P3,P2,Apps,Resolved,Remote application unavailable due to DNS
+INC-010,Identity,Identity,P2,P2,Identity,Resolved,Authentication service degradation
+INC-011,Printing,Printing,P3,P3,Supplier,Closed,Printer driver failure
+INC-012,Other,Application,P4,P3,Service Desk,Resolved,Standard app launch failure
